@@ -1,0 +1,570 @@
+City;Entry date;Deactivation date;Birth date;Age;Sex;ZIP code;Method of payment;Fidelizacion media;ID;Discount type;Discount %;Count classes;Count weeks;Times per week;FavoriteClass;Income €;Current membership;Fidelizacion alta;Payment method
+Barcelona;4/20/22;4/21/22;2/10/00;24;Woman;;Manual payment;0;1;;;;0;;;;;0;
+Barcelona;4/25/22;8/28/22;;55;Man;8002;Manual payment;0;10;;;;18;;;170;Open Box;0;Card payment
+Barcelona;8/20/22;5/2/24;;;Man;;Manual payment;1;100;;;1;89;0;Open Box;60;Bonus;1;Card payment
+Barcelona;8/24/22;;10/8/92;31;Man;8014;Direct debit;1;101;Familiares directos (10.00%);10;352;120;3;WOD;1799,56;Healthy;1;Direct debit
+Barcelona;8/24/22;3/21/24;;33;Man;;Manual payment;1;102;;;281;82;3;WOD;1434,52;Fitness;1;Direct debit
+Barcelona;8/25/22;1/8/23;;32;Man;;Manual payment;0;103;FCSE,FCS, FFCCS | Inicial (5.00%);5;53;20;3;Open Box;490,5;Full Open;0;Direct debit
+Barcelona;8/25/22;9/11/22;10/15/1992;31;Man;;Manual payment;0;104;FCSE,FCS, FFCCS (10.00%);10;17;3;6;WOD;149,5;Light;0;Cash payment
+Barcelona;8/26/22;;;34;Man;8840;Direct debit;1;105;Familiares directos (10.00%);10;580;120;5;Open Box;1951,25;Full Open;1;Direct debit
+Barcelona;8/26/22;;;36;Woman;8820;Direct debit;1;106;Familiares directos (10.00%);10;469;120;4;Open Box;1962,75;Full Open;1;Direct debit
+Barcelona;8/26/22;1/9/23;;;Man;;Manual payment;0;107;;;;20;;;100;Bonus;0;Card payment
+Barcelona;8/26/22;1/8/23;08/19/1991;32;Woman;;Pay with RedSys POS automatically;0;108;;;9;20;0;WOD;99;Bonus;0;Card payment
+Barcelona;8/29/22;9/11/22;;31;Man;;Manual payment;0;109;;;21;2;11;Open Box;79;Open Box;0;Card payment
+Barcelona;8/29/22;9/11/22;;;Woman;;Manual payment;0;110;;;16;2;8;Open Box;79;Open Box;0;Card payment
+Barcelona;8/31/22;1/22/23;02/28/1997;27;Woman;;Manual payment;0;111;;;23;21;1;WOD;455;Light;0;Card payment
+Barcelona;8/31/22;1/6/23;;29;Man;;Manual payment;0;112;;;54;18;3;WOD;465;Light;0;Pay with RedSys POS
+Barcelona;8/31/22;3/31/24;07/23/1997;26;Man;;Direct debit;1;113;Manual (6€);7,06;314;83;4;Open Box;1399,2;Open Box;1;Direct debit
+Barcelona;8/31/22;9/11/22;11/21/1996;27;Man;8014;Pay with RedSys POS automatically;0;114;;;25;2;13;WOD;164;Vitamin;0;Card payment
+Barcelona;1/9/22;1/1/24;;28;Woman;;Direct debit;1;115;;;153;103;1;WOD;1323,33;Vitamin;1;Direct debit
+Barcelona;1/9/22;;05/14/1995;29;Woman;;Direct debit;1;117;;;173;116;1;WOD;1618,4;Vitamin;1;Direct debit
+Barcelona;2/9/22;2/29/24;6/11/91;32;Man;;Manual payment;1;118;;;230;107;2;WOD;1580;Vitamin;1;Card payment
+Barcelona;2/9/22;6/30/24;7/5/92;32;Man;;Direct debit;1;119;;;275;125;2;WOD;1802,74;Fitness;1;Direct debit
+Barcelona;4/26/22;5/5/22;;;Woman;;Manual payment;0;12;;;1;1;1;Strong;;;0;
+Barcelona;3/9/22;9/11/22;;;Woman;;Manual payment;0;120;;;2;27;0;WOD;34,67;Light;0;Card payment
+Barcelona;3/9/22;5/28/23;;23;Woman;;Direct debit;1;121;;;173;64;3;WOD;1100;Fitness;1;Direct debit
+Barcelona;5/9/22;9/11/22;02/29/2000;24;Man;;Pay with RedSys POS automatically;0;122;;;14;18;1;WOD;95;Healthy;0;Card payment
+Barcelona;5/9/22;9/11/22;7/8/92;31;Man;8042;Pay with RedSys POS automatically;0;123;;;1;18;0;WOD;65;Light;0;Card payment
+Barcelona;5/9/22;9/11/22;12/19/1990;33;Woman;8014;Pay with RedSys POS automatically;0;124;;;2;18;0;WOD;65;Light;0;Card payment
+Barcelona;5/9/22;1/1/24;9/4/91;33;Woman;8014;Direct debit;1;125;;;258;86;3;WOD;1503,22;Healthy;1;Card payment
+Barcelona;6/9/22;9/2/24;03/15/1996;28;Man;;Direct debit;1;126;;;45;117;0;WOD;920;Light;1;Direct debit
+Barcelona;6/9/22;9/11/22;09/19/1994;29;Man;;Manual payment;0;127;;;6;14;0;Strong;55;Morning Fitness;0;Pay with RedSys POS
+Barcelona;6/9/22;10/31/23;7/3/72;52;Man;;Direct debit;1;128;;;51;73;1;WOD;942;Light;1;Direct debit
+Barcelona;7/9/22;11/24/22;;;Man;;Manual payment;0;129;;;2;20;0;WOD;52;Light;0;Card payment
+Barcelona;4/26/22;9/11/22;;;Man;;Manual payment;0;13;;;;20;;;30;On Ramp;0;Cash payment
+Barcelona;7/9/22;1/31/24;;26;Woman;;Manual payment;1;130;;;;82;;;99;Full Open;1;Card payment
+Barcelona;9/9/22;2/29/24;2/2/94;30;Man;;Direct debit;1;131;;;253;77;3;WOD;1572,13;Healthy;1;Direct debit
+Barcelona;10/9/22;11/23/23;;32;Man;;Direct debit;1;132;;;131;58;2;WOD;1068,4;Vitamin;1;Direct debit
+Barcelona;12/9/22;9/11/22;;29;Woman;;Manual payment;0;133;;;2;11;0;WOD;35;Light;0;Card payment
+Barcelona;12/9/22;1/22/23;;25;Woman;;Manual payment;0;134;;;12;7;2;WOD;70;Light;0;Card payment
+Barcelona;12/9/22;9/20/22;;;Man;;Manual payment;0;135;;;;;;;51,93;Vitamin;0;Cash payment
+Barcelona;12/9/22;9/1/23;;25;Woman;;Manual payment;0;136;Familiares directos (+3) (10.00%);10;3;38;0;WOD;35;Light;0;Card payment
+Barcelona;12/9/22;2/7/23;10/6/96;28;Woman;;Manual payment;0;137;;;142;9;16;WOD;775,93;Healthy;0;Direct debit
+Barcelona;12/9/22;1/6/23;01/20/2001;23;Woman;;Manual payment;0;138;;;32;4;8;WOD;465;Oferta Rugby;0;Card payment
+Barcelona;9/13/22;9/11/22;7/4/90;34;Woman;;Manual payment;0;139;;;;;;;35;Light;0;Card payment
+Barcelona;4/26/22;9/11/22;;33;Man;;Manual payment;0;14;Manual (3€);3,53;1;20;0;WOD;82;Vitamin;0;Card payment
+Barcelona;9/13/22;9/11/22;;;Woman;;Manual payment;0;140;;;3;2;2;Halterofilia;35;Light;0;Card payment
+Barcelona;9/13/22;10/2/24;1/5/82;42;Man;;Manual payment;1;141;;;1;107;0;SKILLS;110;Bonus;1;Card payment
+Barcelona;9/14/22;2/11/22;;;Man;;Direct debit;0;142;;;10;29;0;WOD;235,17;Fitness;0;Card payment
+Barcelona;9/14/22;9/11/22;;;Man;;Manual payment;0;143;;;;;;;55;Morning Fitness;0;Card payment
+Barcelona;9/26/22;2/20/24;09/18/1981;42;Man;;Direct debit;1;144;;;218;73;3;WOD;1094,17;Morning Fitness;1;Direct debit
+Barcelona;9/16/22;9/19/23;;31;Man;;Manual payment;1;145;;;55;53;1;WOD;800;Light;1;Direct debit
+Barcelona;9/16/22;3/27/23;09/14/2001;22;Man;;Pay with RedSys POS automatically;0;146;;;26;28;1;WOD;322,5;Morning Fitness;0;Direct debit
+Barcelona;9/19/22;;11/20/1995;28;Woman;8014;Direct debit;1;147;;;234;120;2;WOD;1596;Healthy;1;Direct debit
+Barcelona;9/19/22;;04/26/1981;43;Man;;Direct debit;1;148;;;229;120;2;WOD;1641,8;Vitamin;1;Direct debit
+Barcelona;9/19/22;;9/6/01;23;Man;8014;Direct debit;1;149;;;299;120;2;WOD;1863;Healthy;1;Direct debit
+Barcelona;4/26/22;12/7/22;;;Woman;;Manual payment;0;15;Manual (3€);3,53;;32;;;147;Light;0;Cash payment
+Barcelona;9/19/22;5/2/24;09/19/1990;33;Woman;;Manual payment;1;150;Familiares directos (10.00%);10;6;84;0;WOD;99;Bonus;1;Card payment
+Barcelona;9/20/22;;1/6/93;31;Man;;Direct debit;1;151;;;190;107;2;WOD;1874,07;;1;Card payment
+Barcelona;9/20/22;9/20/22;;;Man;;Manual payment;0;152;;;;0;;;65;Light;0;Card payment
+Barcelona;9/20/22;1/30/23;;;Man;;Manual payment;0;153;;;13;19;1;WOD;260;Light;0;Card payment
+Barcelona;9/26/22;;8/2/96;28;Man;8014;Direct debit;1;154;;;197;120;2;WOD;1864,8;Healthy  Descuento Trimestral;1;Card payment
+Barcelona;9/27/22;9/11/22;;;Man;;Manual payment;1;155;;;20;39;1;Halterofilia;115;Fitness;0;Card payment
+Barcelona;9/27/22;1/29/23;12/2/88;36;Man;;Manual payment;0;156;;;31;18;2;WOD;296,5;Healthy;0;Card payment
+Barcelona;9/27/22;3/12/23;;32;Man;;Direct debit;0;157;Manual (61.33€);87,61;122;24;5;WOD;827,38;Light;0;Direct debit
+Barcelona;9/28/22;2/28/23;;29;Man;;Manual payment;0;158;;;43;22;2;WOD;416;Vitamin;0;Direct debit
+Barcelona;9/28/22;8/5/24;12/14/1988;35;Man;;Direct debit;1;159;;;93;97;1;WOD;1263;Vitamin;1;Direct debit
+Barcelona;4/27/22;4/27/22;;;Woman;8013;Pay with RedSys POS automatically;0;16;;;;0;;;;;0;
+Barcelona;9/29/22;9/11/22;;;Man;;Manual payment;0;160;;;14;35;0;WOD;110;Morning Fitness;0;Card payment
+Barcelona;9/29/22;9/11/22;;;Man;;Manual payment;0;161;;;3;2;2;Hyrox;195;Light;0;Card payment
+Barcelona;9/29/22;1/16/23;;31;Man;;Manual payment;0;162;;;10;16;1;Open Box;340;Morning Fitness;0;Card payment
+Barcelona;9/29/22;;;27;Woman;;Direct debit;1;163;;;131;116;1;WOD;1606;Vitamin;1;Direct debit
+Barcelona;9/30/22;;06/21/1991;32;Man;;Direct debit;1;164;;;366;120;3;Open Box;1813;Full Open;1;Direct debit
+Barcelona;9/30/22;12/31/22;06/25/1990;33;Woman;;Manual payment;0;165;;;16;13;1;WOD;279;Fitness;0;Direct debit
+Barcelona;3/10/22;3/2/23;;;Woman;;Direct debit;1;166;;;48;51;1;WOD;281,45;Morning Fitness;1;Card payment
+Barcelona;3/10/22;;11/14/1994;29;Woman;8014;Direct debit;1;167;Familiares directos (10.00%);10;132;120;1;WOD;1279;Light;1;Direct debit
+Barcelona;3/10/22;;10/31/1991;32;Man;;Direct debit;1;168;Familiares directos (10.00%);10;197;116;2;WOD;1424,1;Vitamin;1;Direct debit
+Barcelona;4/10/22;;;28;Woman;8004;Direct debit;1;169;;;96;107;1;WOD;1089,68;Bonus;1;Direct debit
+Barcelona;4/27/22;6/9/22;;;Woman;;Manual payment;0;17;;;1;6;0;WOD;55;Morning Fitness;0;Card payment
+Barcelona;4/10/22;8/2/24;12/29/1972;51;Woman;;Pay with RedSys POS automatically;1;170;;;14;120;0;WOD;329,68;Vitamin;1;Direct debit
+Barcelona;4/10/22;1/12/22;7/11/03;20;Woman;;Pay with RedSys POS automatically;0;171;;;3;17;0;WOD;104,66;;0;Card payment
+Barcelona;4/10/22;1/12/22;3/6/92;32;Man;;Pay with RedSys POS automatically;0;172;;;6;17;0;Open Box;79;Open Box;0;Card payment
+Barcelona;4/10/22;1/2/24;12/2/96;28;Woman;;Direct debit;1;173;Familiares directos (10.00%);10;126;90;1;WOD;1398,49;Full Fitness;1;Direct debit
+Barcelona;5/10/22;;;30;Woman;;Direct debit;1;174;;;180;116;2;WOD;1591,03;Vitamin;1;Direct debit
+Barcelona;5/10/22;3/31/24;6/1/94;30;Man;;Direct debit;1;175;;;136;99;1;WOD;1285,11;Vitamin;1;Direct debit
+Barcelona;5/10/22;1/30/23;11/18/1997;26;Man;;Pay with RedSys POS automatically;0;176;;;7;38;0;Hyrox;100,48;Oferta Rugby;0;Cash payment
+Barcelona;7/10/22;9/1/23;;;Woman;;Manual payment;1;177;;;6;59;0;WOD;55;Morning Fitness;1;Cash payment
+Barcelona;8/10/22;2/5/24;11/29/1991;32;Woman;;Manual payment;1;178;;;55;78;1;WOD;1643,02;Vitamin;1;Card payment
+Barcelona;10/10/22;;3/3/96;28;Woman;;Direct debit;1;179;;;164;120;1;WOD;1576,7;Light;1;Direct debit
+Barcelona;4/27/22;6/16/22;07/19/1975;48;Man;;Manual payment;0;18;;;;7;;;;;0;
+Barcelona;10/10/22;9/1/23;05/21/1994;30;Woman;;Pay with RedSys POS automatically;1;180;;;16;46;0;WOD;111,13;Light;0;Card payment
+Barcelona;11/10/22;6/30/24;04/26/1995;29;Woman;;Direct debit;1;181;;;142;86;2;WOD;1602;Vitamin;1;Direct debit
+Barcelona;10/13/22;1/4/23;08/27/1993;30;Woman;;Pay with RedSys POS automatically;0;182;;;21;12;2;WOD;169,84;Light;0;Card payment
+Barcelona;10/13/22;;10/18/1991;32;Man;8014;Direct debit;1;183;;;143;112;1;WOD;1439,84;Vitamin;1;Direct debit
+Barcelona;10/14/22;1/1/24;12/27/1981;42;Man;;Direct debit;1;184;;;46;64;1;Open Box;1579,35;Open Box;1;Direct debit
+Barcelona;10/14/22;1/8/23;2/11/79;44;Woman;;Manual payment;0;185;;;5;13;0;Open Box;230;Fitness;0;Cash payment
+Barcelona;10/14/22;;05/14/1994;30;Woman;8004;Direct debit;1;186;;;147;116;1;WOD;1347,74;Light;1;Direct debit
+Barcelona;10/16/22;1/22/23;;34;Woman;;Manual payment;0;187;;;21;14;2;WOD;288;Vitamin;0;Cash payment
+Barcelona;10/17/22;9/1/23;;28;Man;;Manual payment;1;188;;;7;45;0;WOD;81,61;Morning Fitness;0;Cash payment
+Barcelona;10/17/22;1/16/23;10/5/90;34;Man;;Pay with RedSys POS automatically;0;189;;;30;13;2;WOD;170,65;Fitness;0;Card payment
+Barcelona;4/27/22;9/20/22;;43;Woman;;Manual payment;0;19;;;19;21;1;Strong;80;Vitamin;0;Cash payment
+Barcelona;10/17/22;;07/18/1996;27;Man;;Direct debit;1;190;;;333;116;3;WOD;1829,38;Morning Xl Trimestral;1;Cash payment
+Barcelona;10/18/22;9/11/22;;30;Woman;;Manual payment;0;191;;;2;1;2;SKILLS;79,84;Morning Fitness;0;Card payment
+Barcelona;10/22/22;;2/12/91;32;Woman;;Manual payment;1;192;;;312;116;3;WOD;1065,48;MORNING FITNESS XL;1;Pay with RedSys POS
+Barcelona;10/23/22;;11/30/1983;40;Woman;8028;Direct debit;1;193;;;189;112;2;Open Box;1644,61;Open Box;1;Direct debit
+Barcelona;10/23/22;;;27;Woman;;Manual payment;1;194;;;4;90;0;WOD;110;Bonus;1;Card payment
+Barcelona;10/23/22;1/2/24;2/4/92;32;Woman;;Direct debit;1;195;;;391;62;6;WOD;1165,97;MORNING FITNESS XL;1;Card payment
+Barcelona;10/24/22;9/11/22;;;Man;;Manual payment;0;196;;;;;;;40;On Ramp;0;Cash payment
+Barcelona;10/25/22;3/2/23;06/16/1993;31;Woman;;Pay with RedSys POS automatically;0;197;;;32;18;2;WOD;280,97;Healthy;0;Direct debit
+Barcelona;10/26/22;1/8/23;10/9/84;39;Man;8014;Direct debit;0;198;;;76;11;7;WOD;605;Morning Fitness;0;Direct debit
+Barcelona;10/27/22;1/30/23;;;Man;;Manual payment;0;199;;;18;14;1;WOD;55;Morning Fitness;0;Cash payment
+Barcelona;4/21/22;9/11/22;6/11/89;34;Man;;Manual payment;0;2;;;6;21;0;WOD;222,5;;0;Pay with RedSys POS
+Barcelona;4/27/22;1/2/23;;50;Woman;;Manual payment;0;20;;;103;36;3;WOD;492;Vitamin;0;Direct debit
+Barcelona;10/27/22;1/31/23;08/21/1992;31;Woman;;Manual payment;0;200;;;6;14;0;WOD;50;Fitness;0;Card payment
+Barcelona;10/28/22;;;31;Man;;Direct debit;1;201;Manual (0€);0;172;116;1;WOD;1415;MORNING FITNESS XL;1;Direct debit
+Barcelona;10/28/22;2/28/23;;31;Man;;Manual payment;0;202;;;25;18;1;WOD;330;Light;0;Direct debit
+Barcelona;10/31/22;5/31/23;;27;Man;;Direct debit;0;203;;;18;30;1;WOD;490;Morning Fitness;0;Direct debit
+Barcelona;2/11/22;1/4/23;;;Man;;Direct debit;1;204;;;34;47;1;WOD;55;Morning Fitness;0;Card payment
+Barcelona;2/11/22;;;;Woman;;Direct debit;1;205;;;200;120;2;WOD;1524;Vitamin;1;Direct debit
+Barcelona;3/11/22;9/1/23;;;Man;;Manual payment;1;206;;;;77;;;55;Morning Fitness;1;Cash payment
+Barcelona;3/11/22;5/31/24;04/19/1996;28;Woman;;Direct debit;1;207;;;50;116;0;WOD;1175;Light;1;Card payment
+Barcelona;3/11/22;3/31/24;06/25/1997;26;Woman;;Direct debit;1;208;;;60;108;1;WOD;1175;Light;1;Direct debit
+Barcelona;4/11/22;5/12/22;03/19/1991;33;Woman;;Manual payment;0;209;;;4;4;1;Open Box;115;Fitness;0;Card payment
+Barcelona;4/28/22;10/18/23;;36;Man;;Manual payment;1;21;Familiares directos (10.00%);10;204;77;3;WOD;1357,5;Full Fitness;1;Pay with RedSys POS
+Barcelona;5/11/22;1/8/23;2/7/03;20;Man;;Direct debit;0;210;;;16;35;0;Open Box;265;Light;0;Direct debit
+Barcelona;9/11/22;1/2/24;01/24/1999;25;Man;;Direct debit;1;211;;;133;68;2;WOD;955,18;Morning Fitness;1;Direct debit
+Barcelona;11/11/22;9/1/23;;;Man;;Pay with RedSys POS automatically;1;212;;;3;42;0;Hyrox;35;Oferta Rugby;0;Card payment
+Barcelona;11/15/22;;10/15/1992;31;Man;;Direct debit;1;213;Familiares directos (10.00%);10;278;94;3;WOD;1700,5;Healthy;1;Direct debit
+Barcelona;11/15/22;5/31/23;11/9/93;30;Man;;Manual payment;0;214;;;30;28;1;WOD;444,67;Light;0;Direct debit
+Barcelona;11/16/22;9/1/23;;;Woman;;Manual payment;1;215;;;;41;;;55;Morning Fitness;0;Card payment
+;11/21/22;7/3/23;;24;Man;;Manual payment;0;216;;;55;32;2;WOD;316,67;Healthy;0;Direct debit
+Barcelona;11/22/22;5/12/22;;;Man;;Manual payment;0;217;;;;;;;28,5;Healthy;0;Card payment
+Barcelona;11/24/22;9/1/23;08/29/2000;23;Woman;;Pay with RedSys POS automatically;1;218;;;;40;;;;;0;
+Barcelona;11/27/22;1/8/23;;25;Man;;Manual payment;0;219;;;16;6;3;WOD;110;Bonus;0;Card payment
+Barcelona;4/28/22;4/12/23;;40;Woman;;Manual payment;1;22;Familiares directos | Inicial (15.00%);15;4;50;0;Hyrox;207,25;Bonus;0;Card payment
+Barcelona;11/28/22;5/2/24;2/1/94;30;Woman;26007;Pay with RedSys POS automatically;1;220;;;4;74;0;WOD;45;Bonus;1;Card payment
+Barcelona;11/28/22;5/2/24;;30;Man;;Manual payment;1;221;;;10;74;0;WOD;110;Bonus;1;Card payment
+Barcelona;11/30/22;1/4/23;;29;Woman;;Direct debit;0;222;;;23;5;5;WOD;260;Morning Fitness;0;Direct debit
+Barcelona;1/12/22;5/31/23;;34;Woman;;Direct debit;1;223;Familiares directos (10.00%);10;99;72;1;WOD;452,25;Vitamin  Descuento Trimestral;1;Direct debit
+Barcelona;2/12/22;3/31/23;09/27/1992;31;Woman;;Pay with RedSys POS automatically;1;224;;;15;59;0;WOD;245,5;Light;1;Card payment
+Barcelona;2/12/22;7/3/23;7/6/92;32;Woman;;Pay with RedSys POS automatically;1;225;;;3;73;0;WOD;65;Light;1;Card payment
+Barcelona;4/12/22;1/5/23;;29;Man;;Direct debit;0;226;;;18;38;0;WOD;130;Light;0;Direct debit
+Barcelona;12/13/22;4/27/23;;26;Man;;Direct debit;0;227;;;19;19;1;WOD;244,84;Light;0;Direct debit
+Barcelona;12/15/22;1/5/23;6/5/94;30;Man;;Direct debit;0;228;;;13;3;4;WOD;313,39;Morning Fitness;0;Direct debit
+Barcelona;12/19/22;;10/18/1986;37;Woman;;Direct debit;1;229;;;79;71;1;WOD;698,87;Vitamin;1;Direct debit
+Barcelona;4/29/22;9/11/22;;;Woman;;Manual payment;0;23;;;;20;;;;;0;
+Barcelona;12/22/22;8/5/24;03/19/1996;28;Man;8014;Direct debit;1;230;;;164;85;2;WOD;1300;Healthy;1;Direct debit
+Barcelona;12/22/22;9/30/23;06/28/1990;33;Man;8004;Pay with RedSys POS automatically;1;231;;;86;40;2;WOD;730;Light;0;Cash payment
+;12/25/22;9/1/23;;27;Woman;;Manual payment;0;232;;;;35;;;;;0;
+;12/25/22;9/1/23;;28;Woman;;Manual payment;0;233;;;;35;;;;;0;
+Barcelona;12/27/22;;03/28/1989;35;Man;;Direct debit;1;234;;;193;70;3;WOD;1120;MORNING FITNESS XL;1;Direct debit
+Barcelona;12/30/22;1/8/23;;26;Man;;Manual payment;0;235;;;53;2;27;Open Box;255;Open Box;0;Pay with RedSys POS
+Barcelona;12/31/22;3/31/24;6/10/87;36;Woman;8013;Direct debit;1;236;Manual (0€);0;267;66;4;Open Box;1165;Open Box;1;Direct debit
+Barcelona;4/1/23;1/31/24;;30;Man;;Manual payment;1;237;;;35;44;1;WOD;585;Light | Descuento Anual;0;Card payment
+Barcelona;4/1/23;;02/22/1983;41;Man;;Direct debit;1;238;;;238;69;3;Open Box;1402;Full Open;1;Direct debit
+Barcelona;4/1/23;1/30/23;6/12/83;40;Man;;Direct debit;0;239;;;1;0;∞;SKILLS;115;Vitamin;0;Card payment
+Barcelona;4/29/22;9/11/22;;;Man;8014;Pay with RedSys POS automatically;0;24;;;1;20;0;SKILLS;;;0;
+Barcelona;8/1/23;;8/2/95;29;Woman;8902;Direct debit;1;240;Familiares directos (10.00%);10;207;68;3;WOD;1338,23;Healthy;1;Direct debit
+Barcelona;8/1/23;;8/10/93;30;Man;8902;Direct debit;1;241;Familiares directos (10.00%);10;194;69;3;WOD;1338,23;Healthy;1;Direct debit
+Barcelona;9/1/23;1/17/23;9/7/79;44;Man;;Manual payment;0;242;Familiares directos (10.00%);10;3;1;3;WOD;58,5;Light;0;Card payment
+Barcelona;9/1/23;1/2/23;05/29/1988;36;Woman;;Direct debit;1;243;;;3;45;0;WOD;95;Morning Fitness;0;Direct debit
+Barcelona;9/1/23;1/9/23;3/12/95;28;Woman;;Direct debit;0;244;;;7;37;0;WOD;520;Matricula descuento;0;Card payment
+Barcelona;12/1/23;1/31/24;;42;Man;;Pay with RedSys POS automatically;0;245;;;152;9;17;WOD;1250;Vitamin;0;Cash payment
+Barcelona;12/1/23;;2/8/90;33;Man;8015;Direct debit;1;246;;;208;69;3;WOD;1445;Healthy;1;Direct debit
+Barcelona;1/13/23;2/7/23;;30;Woman;;Direct debit;0;247;;;5;4;1;WOD;475;Light;0;Card payment
+Barcelona;1/13/23;1/13/23;;32;Man;;Manual payment;0;248;;;;0;;;39,84;Light;0;Cash payment
+Barcelona;1/16/23;;12/21/1987;36;Woman;8014;Direct debit;1;249;;;88;69;1;WOD;1025;Morning Fitness;1;Direct debit
+Barcelona;4/29/22;4/27/23;;32;Woman;;Direct debit;1;25;;;145;52;3;Open Box;1049;Open Box;1;Direct debit
+Barcelona;1/16/23;;3/6/89;35;Woman;8038;Direct debit;1;250;;;109;69;2;WOD;1095;Morning Fitness;1;Direct debit
+Barcelona;1/16/23;3/30/23;5/11/02;21;Woman;;Direct debit;0;251;;;;10;;;;;0;
+Barcelona;1/16/23;6/30/23;07/21/1995;28;Man;;Direct debit;0;252;;;152;23;7;WOD;1368,35;Fitness;0;Direct debit
+Barcelona;1/16/23;4/30/24;7/4/86;38;Woman;;Direct debit;1;253;;;70;67;1;WOD;1310,37;Vitamin;1;Direct debit
+Barcelona;1/16/23;;5/4/91;33;Man;;Direct debit;1;254;;;110;67;2;WOD;1310,37;Vitamin;1;Direct debit
+Barcelona;1/17/23;2/5/24;9/7/79;44;Man;;Manual payment;1;255;;;63;55;1;WOD;411,87;Morning Fitness;1;Card payment
+Barcelona;1/19/23;;12/14/1995;28;Woman;;Direct debit;1;256;;;183;69;3;WOD;907,26;Morning Fitness;1;Direct debit
+Barcelona;1/19/23;;02/19/1998;26;Man;8014;Direct debit;1;257;;;112;69;2;WOD;1000;Vitamin;1;Direct debit
+Barcelona;1/25/23;;10/14/1998;25;Man;8036;Manual payment;1;258;;;296;69;4;WOD;1470,39;Morning Xl Trimestral;1;Direct debit
+Barcelona;1/30/23;9/30/23;08/26/1991;32;Woman;;Direct debit;0;259;;;33;34;1;Strong;669,97;Morning Fitness;0;Card payment
+Barcelona;3/5/22;3/2/23;;29;Woman;;Direct debit;1;26;;;53;52;1;WOD;380;Healthy;1;Direct debit
+Barcelona;1/30/23;3/27/23;;28;Woman;;Manual payment;0;260;;;5;8;1;WOD;50;Bonus;0;Card payment
+Barcelona;1/31/23;4/7/23;;;Man;;Manual payment;0;261;;;23;9;3;WOD;375;Vitamin;0;Direct debit
+Barcelona;1/31/23;2/7/23;;24;Woman;;Manual payment;0;262;;;40;1;40;Halterofilia;345;Light;0;Direct debit
+Barcelona;1/31/23;3/21/24;09/29/1997;26;Woman;;Direct debit;1;263;;;128;59;2;WOD;1130;Vitamin;1;Direct debit
+Barcelona;1/2/23;7/31/23;10/9/99;24;Man;;Direct debit;0;264;;;10;30;0;WOD;420;Light;0;Direct debit
+Barcelona;1/2/23;1/8/23;04/13/1996;28;Woman;;Manual payment;0;265;;;4;1;4;WOD;40;Bonus;0;Card payment
+Barcelona;3/2/23;4/30/24;07/26/1990;33;Woman;;Direct debit;1;266;;;280;61;5;WOD;1585;Fitness;1;Direct debit
+Barcelona;4/2/23;1/8/23;1/9/95;28;Woman;8202;Manual payment;0;267;;;;;;;99;Full Open;0;Cash payment
+Barcelona;5/2/23;1/8/23;3/8/93;30;Man;;Manual payment;0;268;;;10;22;0;Open Box;110;Bonus;0;Cash payment
+Barcelona;6/2/23;6/30/24;2/9/92;31;Woman;8031;Direct debit;1;269;;;165;57;3;WOD;1255;Healthy;1;Direct debit
+Barcelona;4/5/22;6/6/22;;55;Man;;Manual payment;0;27;;;;9;;;115;Fitness;0;Cash payment
+Barcelona;7/2/23;3/27/23;11/11/92;31;Man;;Direct debit;0;270;;;11;35;0;Open Box;170;Open Box;0;Card payment
+Barcelona;9/2/23;;5/1/97;27;Woman;8907;Direct debit;1;271;;;261;69;4;WOD;1530;MORNING FITNESS XL;1;Direct debit
+Barcelona;9/2/23;1/5/23;02/29/1996;28;Man;;Pay with RedSys POS automatically;0;272;;;1;0;∞;SKILLS;65;Morning Fitness;0;Card payment
+Barcelona;2/13/23;3/27/23;7/3/97;27;Woman;;Direct debit;0;273;;;4;6;1;WOD;118,57;Vitamin;0;Direct debit
+Barcelona;2/15/23;1/6/23;3/4/91;33;Woman;;Pay with RedSys POS automatically;0;274;;;6;33;0;WOD;175;Light;0;Card payment
+Barcelona;2/18/23;;1/11/90;33;Woman;8029;Direct debit;1;275;;;208;69;3;WOD;1397,66;Healthy;1;Direct debit
+Barcelona;2/20/23;;01/22/1990;34;Woman;8004;Direct debit;1;276;;;172;69;2;WOD;822,5;Morning Fitness;1;Direct debit
+Barcelona;2/28/23;;4/12/93;30;Man;;Direct debit;1;277;;;259;69;4;WOD;1630;Fitness;1;Direct debit
+Barcelona;1/3/23;3/27/23;;;Woman;;Direct debit;0;278;;;1;12;0;Open Box;135;Light;0;Direct debit
+Barcelona;2/3/23;10/31/23;;29;Woman;;Direct debit;1;279;;;50;39;1;WOD;560;Light;0;Card payment
+Barcelona;5/5/22;;;36;Man;;Pay with RedSys POS automatically;1;28;;;221;121;2;WOD;1814,74;Bonus;1;Cash payment
+Barcelona;2/3/23;8/3/23;01/20/2001;23;Woman;;Pay with RedSys POS automatically;0;280;;;;26;;;35;Oferta Rugby;0;Card payment
+Barcelona;4/3/23;;11/14/2002;21;Woman;8450;Manual payment;1;281;;;3;59;0;WOD;122,98;;1;Card payment
+Barcelona;6/3/23;3/27/23;04/19/1991;33;Woman;;Manual payment;0;282;;;;;;;;;0;
+Barcelona;6/3/23;1/6/23;;27;Man;;Manual payment;0;283;;;9;9;1;WOD;70;Light;0;Card payment
+Barcelona;7/3/23;;05/26/1994;30;Woman;;Direct debit;1;284;;;138;69;2;WOD;725;Morning Fitness;1;Direct debit
+Barcelona;8/3/23;2/7/23;03/22/1993;31;Man;;Direct debit;0;285;;;6;29;0;WOD;260;Morning Fitness;0;Direct debit
+Barcelona;10/3/23;1/5/23;10/13/1994;29;Man;;Manual payment;0;286;PARTNER (5.00%);5;7;2;4;WOD;133;Light;0;Bank transfer
+Barcelona;10/3/23;3/31/24;;28;Man;;Direct debit;0;287;;;91;26;4;WOD;830;Light;0;Direct debit
+Barcelona;3/14/23;10/18/23;06/13/1996;28;Woman;;Manual payment;0;288;;;19;31;1;WOD;355,16;Morning Fitness;0;Card payment
+Barcelona;3/14/23;;07/25/1991;32;Woman;8004;Direct debit;1;289;Familiares directos (10.00%);10;276;64;4;WOD;1176,05;Fitness;1;Direct debit
+Barcelona;5/5/22;8/26/22;11/8/97;26;Woman;;Direct debit;0;29;Familiares directos (10.00%);10;15;16;1;WOD;138,8;Light;0;Card payment
+Barcelona;3/16/23;1/5/23;04/30/1995;29;Man;;Manual payment;0;290;;;9;11;1;WOD;33,55;Morning Fitness;0;Cash payment
+Barcelona;3/17/23;6/18/24;;38;Man;;Manual payment;1;291;;;13;66;0;WOD;99;Bonus;1;Card payment
+Barcelona;3/20/23;10/18/23;;33;Man;;Manual payment;0;292;FCSE, FCS, FFCCS (10.00%);10;17;30;1;WOD;351;Morning fitness Trimestral;0;Card payment
+Barcelona;3/21/23;3/21/24;;41;Man;;Direct debit;1;293;;;104;52;2;WOD;650;Morning Fitness;1;Direct debit
+Barcelona;3/22/23;;07/15/1993;30;Man;;Direct debit;1;294;;;107;69;2;WOD;1005;Vitamin;1;Direct debit
+Barcelona;3/23/23;1/8/23;11/6/91;33;Man;;Manual payment;1;295;;;39;40;1;WOD;280;MORNING FITNESS XL;0;Pay with RedSys POS
+Barcelona;3/23/23;;;34;Man;;Manual payment;1;296;;;98;69;1;Halterofilia;1130;Healthy;1;Cash payment
+Barcelona;3/23/23;;;32;Man;;Direct debit;1;297;FCSE, FCS, FFCCS (10.00%);10;66;69;1;WOD;180;Morning Fitness;1;Direct debit
+Barcelona;3/23/23;;;32;Woman;;Direct debit;1;298;, FCS, FFCCS (10.00%);10;75;69;1;WOD;;;1;
+Barcelona;3/23/23;10/24/23;11/3/86;38;Man;;Direct debit;0;299;;;13;31;0;WOD;364,68;Vitamin;0;Card payment
+Barcelona;4/21/22;9/15/22;;27;Man;;Manual payment;0;3;;;5;21;0;WOD;169;Vitamin;0;Card payment
+Barcelona;6/5/22;5/12/22;05/13/1982;42;Man;;Manual payment;1;30;;;68;48;1;WOD;599,48;Healthy;0;Card payment
+Barcelona;3/23/23;10/24/23;11/6/90;34;Man;;Direct debit;0;300;;;78;31;3;WOD;408,87;Morning Fitness;0;Card payment
+Barcelona;3/23/23;;02/20/1991;33;Man;8004;Pay with RedSys POS automatically;1;301;;;134;69;2;WOD;1165,58;Healthy  Descuento Trimestral;1;Card payment
+Barcelona;3/23/23;1/1/24;06/29/1982;41;Man;;Direct debit;1;302;;;58;41;1;WOD;535,16;Vitamin;0;Direct debit
+Barcelona;3/24/23;;03/13/1996;28;Woman;8004;Direct debit;1;303;;;89;68;1;WOD;540;Healthy;1;Direct debit
+Barcelona;3/24/23;;4/10/80;43;Woman;;Direct debit;1;304;;;153;69;2;WOD;1096,77;MORNING FITNESS XL;1;Direct debit
+Barcelona;3/24/23;;12/29/1984;39;Man;;Direct debit;1;305;;;87;64;1;WOD;1015;MORNING FITNESS XL;1;Direct debit
+Barcelona;3/24/23;5/11/23;11/22/1996;27;Man;;Direct debit;0;306;;;60;7;9;WOD;410;Bonus;0;Card payment
+Barcelona;3/24/23;;11/2/79;45;Man;;Direct debit;1;307;;;79;69;1;WOD;1105;Vitamin;1;Direct debit
+Barcelona;3/24/23;1/5/23;4/9/97;26;Woman;;Direct debit;0;308;;;3;35;0;SKILLS;160;On Ramp;0;Card payment
+Barcelona;3/27/23;2/7/23;4/4/80;44;Woman;;Manual payment;1;309;;;20;40;1;WOD;65;Morning Fitness;0;Card payment
+Barcelona;7/5/22;1/10/22;;;Woman;;Manual payment;0;31;;;7;25;0;WOD;182,42;Light;0;Card payment
+Barcelona;3/27/23;1/2/24;;32;Man;;Direct debit;1;310;;;53;40;1;WOD;470;Vitamin;0;Direct debit
+Barcelona;3/27/23;;09/28/1989;34;Man;8002;Direct debit;1;311;;;256;68;4;WOD;1115,33;MORNING FITNESS XL;1;Direct debit
+Barcelona;3/27/23;;10/5/87;37;Man;;Direct debit;1;312;;;160;68;2;WOD;1215;Healthy;1;Direct debit
+Barcelona;3/27/23;;05/26/1991;33;Man;;Direct debit;1;313;;;105;69;2;WOD;675;Vitamin;1;Direct debit
+Barcelona;3/28/23;;;33;Man;;Direct debit;1;314;;;130;69;2;WOD;860;Vitamin;1;Direct debit
+Barcelona;3/28/23;;06/14/1971;53;Man;8025;Direct debit;1;315;;;132;69;2;WOD;765;Vitamin;1;Direct debit
+Barcelona;3/28/23;;09/14/1999;24;Woman;8002;Direct debit;1;316;;;259;69;4;WOD;1235,7;Morning Xl Trimestral;1;Cash payment
+Barcelona;3/28/23;1/6/23;10/17/1994;29;Woman;;Direct debit;0;317;;;1;0;∞;WOD;140;Light;0;Direct debit
+Barcelona;3/28/23;2/7/23;11/5/93;31;Man;;Direct debit;0;318;;;1;0;∞;WOD;140;Light;0;Direct debit
+Barcelona;3/29/23;1/31/24;06/23/1979;44;Man;;Direct debit;1;319;;;38;44;1;WOD;650;Morning Fitness;0;Direct debit
+Barcelona;9/5/22;9/27/22;;50;Woman;;Manual payment;0;32;;;11;3;4;WOD;225,81;Morning Light | Descuento;0;Card payment
+Barcelona;3/30/23;9/2/24;05/28/1993;31;Man;;Direct debit;1;320;;;118;75;2;WOD;910;Light;1;Direct debit
+Barcelona;3/30/23;1/18/24;08/17/1995;28;Woman;;Direct debit;1;321;;;118;42;3;WOD;750;Healthy;0;Direct debit
+Barcelona;3/31/23;1/8/23;10/6/91;33;Man;;Direct debit;0;322;;;16;35;0;WOD;65;Morning Fitness;0;Card payment
+Barcelona;3/31/23;1/8/23;04/27/1990;34;Woman;;Direct debit;0;323;;;9;16;1;Open Box;340;Open Box;0;Direct debit
+Barcelona;3/4/23;;;28;Woman;;Direct debit;1;324;;;116;69;2;WOD;956,44;Morning Xl Trimestral;1;Card payment
+Barcelona;3/4/23;1/2/24;04/17/1991;33;Man;;Direct debit;1;325;;;83;44;2;WOD;850;Vitamin;0;Direct debit
+Barcelona;3/4/23;;7/8/94;29;Woman;;Manual payment;1;326;;;142;68;2;WOD;1376,45;Fitness;1;Cash payment
+Barcelona;3/4/23;;03/15/1995;29;Man;;Direct debit;1;327;;;87;69;1;Open Box;1110;Vitamin;1;Direct debit
+Barcelona;4/4/23;;6/12/81;42;Man;8004;Manual payment;1;328;;;151;64;2;WOD;1281,7;Morning fitness Trimestral;1;Direct debit
+Barcelona;5/4/23;4/10/23;08/25/1995;28;Woman;;Direct debit;0;329;Familiares directos (10.00%);10;16;33;0;WOD;346;Vitamin;0;Direct debit
+Barcelona;9/5/22;9/27/22;;55;Man;;Manual payment;0;33;;;18;3;6;WOD;165;Morning Light | Descuento;0;Card payment
+Barcelona;5/4/23;4/12/23;;32;Man;;Direct debit;0;330;;;8;24;0;SKILLS;480;Light;0;Card payment
+Barcelona;6/4/23;1/8/23;;31;Man;8015;Manual payment;0;331;;;7;2;4;WOD;70;Light;0;Card payment
+Barcelona;8/4/23;;;31;Man;;Manual payment;1;332;;;7;60;0;WOD;50;Bonus;1;Cash payment
+Barcelona;11/4/23;;;35;Man;8015;Direct debit;1;333;;;201;69;3;WOD;1080;MORNING FITNESS XL;1;Direct debit
+Barcelona;11/4/23;6/30/23;3/2/99;25;Woman;;Direct debit;0;334;;;2;1;2;WOD;209,67;Light;0;Card payment
+Barcelona;11/4/23;10/31/23;9/12/90;33;Man;;Direct debit;1;335;;;89;47;2;WOD;638,17;Vitamin;0;Card payment
+Barcelona;12/4/23;1/8/23;;28;Woman;;Direct debit;1;336;;;38;48;1;WOD;285;Healthy;0;Direct debit
+Barcelona;12/4/23;6/24/23;9/6/91;33;Man;;Pay with RedSys POS automatically;0;337;;;5;1;5;WOD;44,33;Light;0;Card payment
+Barcelona;4/13/23;2/7/23;08/14/2000;23;Woman;;Manual payment;1;338;;;22;43;1;WOD;105;Oferta Rugby;0;Card payment
+Barcelona;4/14/23;;;28;Man;8002;Direct debit;1;339;;;224;69;3;WOD;1235,7;Morning Xl Trimestral;1;Cash payment
+Barcelona;9/5/22;8/26/22;;16;Woman;;Manual payment;0;34;;;12;20;1;WOD;35;Vitamin;0;Cash payment
+Barcelona;4/14/23;;07/19/1993;30;Man;;Direct debit;1;340;;;255;68;4;WOD;1358,17;Fitness;1;Direct debit
+Barcelona;4/17/23;2/7/23;9/3/81;43;Woman;;Manual payment;0;341;;;3;14;0;Open Box;230;Fitness;0;Cash payment
+Barcelona;4/17/23;;03/23/1978;46;Man;;Direct debit;1;342;;;67;69;1;WOD;770,33;Vitamin;1;Direct debit
+Barcelona;4/17/23;7/31/23;01/25/1987;37;Man;;Direct debit;0;343;;;13;15;1;WOD;245,33;Morning Fitness;0;Card payment
+Barcelona;4/17/23;;05/13/1983;41;Man;;Manual payment;1;344;;;188;69;3;WOD;892,75;MORNING FITNESS XL;1;Card payment
+Barcelona;4/17/23;;5/9/96;27;Woman;;Direct debit;1;345;;;180;69;3;WOD;1170,7;Morning Xl Trimestral;1;Cash payment
+Barcelona;4/17/23;;4/3/90;34;Man;8013;Direct debit;1;346;;;103;69;1;WOD;1105,66;Vitamin;1;Direct debit
+Barcelona;4/20/23;;02/17/1992;32;Man;;Manual payment;1;347;;;182;69;3;WOD;1038,83;MORNING FITNESS XL;1;Cash payment
+Barcelona;4/21/23;;10/20/1992;31;Man;;Manual payment;1;348;;;196;69;3;WOD;1185,87;Morning Xl Trimestral;1;Cash payment
+Barcelona;4/24/23;6/30/23;12/4/91;33;Man;;Direct debit;0;349;;;9;9;1;WOD;145,17;Morning Fitness;0;Direct debit
+Barcelona;10/5/22;9/20/22;;;Man;;Manual payment;0;35;;;;;;;664;Light;0;Card payment
+Barcelona;4/25/23;8/2/24;11/5/88;36;Man;;Direct debit;1;350;;;81;66;1;WOD;472,84;MORNING FITNESS XL;1;Cash payment
+Barcelona;4/26/23;;8/9/88;35;Woman;8902;Direct debit;1;351;;;160;68;2;WOD;1007,5;Healthy;1;Direct debit
+Barcelona;4/26/23;2/27/24;06/25/1987;36;Man;;Direct debit;1;352;;;47;44;1;Strong;680;Vitamin;0;Direct debit
+Barcelona;4/27/23;;10/22/1976;47;Woman;8015;Direct debit;1;353;;;94;64;1;WOD;810;Light;1;Direct debit
+Barcelona;4/27/23;1/8/23;06/27/1992;31;Woman;;Direct debit;1;354;;;6;43;0;WOD;170;Vitamin;0;Direct debit
+Barcelona;2/5/23;;11/19/1992;31;Man;;Direct debit;1;355;;;116;68;2;WOD;795;Morning Fitness;1;Direct debit
+Barcelona;2/5/23;;6/3/02;22;Woman;;Direct debit;1;356;;;133;68;2;WOD;800;MORNING FITNESS XL;1;Direct debit
+Barcelona;3/5/23;7/28/23;11/25/2000;23;Man;8905;Direct debit;0;357;;;3;20;0;WOD;130;Morning Fitness;0;Direct debit
+Barcelona;3/5/23;2/7/23;04/20/1982;42;Man;;Pay with RedSys POS automatically;0;358;;;13;29;0;WOD;65;Morning Fitness;0;Card payment
+Barcelona;3/5/23;;06/21/1999;24;Man;;Direct debit;1;359;;;227;68;3;WOD;850;MORNING FITNESS XL;1;Direct debit
+Barcelona;10/5/22;6/6/22;;25;Woman;;Manual payment;0;36;;;;;;;;;0;
+Barcelona;3/5/23;2/7/23;10/21/1975;48;Woman;;Direct debit;0;360;;;15;30;1;WOD;85;Vitamin;0;Direct debit
+Barcelona;4/5/23;3/31/24;3/7/96;27;Man;;Direct debit;1;361;;;120;52;2;WOD;930;Fitness;1;Direct debit
+Barcelona;4/5/23;3/31/24;3/7/96;27;Woman;;Direct debit;1;362;;;135;52;3;WOD;1280;Fitness;1;Direct debit
+Barcelona;7/5/23;;08/14/1986;37;Man;8029;Direct debit;1;363;;;92;68;1;WOD;890;Vitamin;1;Direct debit
+Barcelona;8/5/23;1/8/23;4/1/01;23;Man;;Pay with RedSys POS automatically;1;364;;;37;48;1;WOD;109,56;Morning Fitness;0;Card payment
+Barcelona;9/5/23;12/3/24;06/15/1986;38;Man;;Manual payment;1;365;;;66;65;1;WOD;610;Morning Fitness;1;Pay with RedSys POS
+Barcelona;10/5/23;;3/11/92;31;Man;;Direct debit;1;366;;;157;69;2;WOD;1265;Fitness;1;Direct debit
+Barcelona;10/5/23;10/24/23;09/26/1998;25;Man;;Direct debit;0;367;;;9;3;3;WOD;230,32;Vitamin;0;Card payment
+Barcelona;5/15/23;1/2/24;10/12/96;27;Woman;;Direct debit;0;368;;;30;33;1;WOD;108,39;Light;0;Card payment
+Barcelona;5/16/23;5/2/24;03/17/1997;27;Man;;Direct debit;1;369;;;10;50;0;Open Box;132,58;Light;0;Card payment
+Barcelona;12/5/22;;1/9/92;31;Man;8038;Direct debit;1;37;Familiares directos (+3) (10.00%);10;485;121;4;Open Box;2126,14;Full Open;1;Direct debit
+Barcelona;5/16/23;;02/26/1991;33;Woman;;Direct debit;1;370;;;122;69;2;WOD;893,87;Vitamin;1;Direct debit
+Barcelona;5/16/23;6/30/23;05/25/1994;30;Woman;;Direct debit;0;371;;;16;6;3;WOD;174,35;Fitness;0;Direct debit
+Barcelona;5/16/23;;6/7/94;29;Woman;8029;Manual payment;1;372;;;36;50;1;WOD;356,13;Morning Fitness;0;Pay with RedSys POS
+Barcelona;5/21/23;;02/22/1997;27;Man;8002;Manual payment;1;373;;;152;69;2;WOD;1143,8;Morning Xl Trimestral;1;Card payment
+Barcelona;5/27/23;;;;Man;;Manual payment;1;374;;;11;68;0;WOD;220;Bonus;1;Card payment
+Barcelona;5/29/23;2/5/24;04/24/1997;27;Man;;Direct debit;0;375;;;69;36;2;WOD;935;;0;Card payment
+Barcelona;5/30/23;8/2/24;;28;Woman;;Manual payment;1;376;;;68;61;1;WOD;616,17;Vitamin;1;Cash payment
+Barcelona;5/30/23;5/30/24;5/8/83;40;Man;;Direct debit;1;377;;;20;52;0;WOD;435;Vitamin;1;Direct debit
+Barcelona;5/30/23;;12/22/1993;30;Woman;;Direct debit;1;378;;;130;69;2;WOD;590;Healthy;1;Direct debit
+Barcelona;1/6/23;10/25/23;4/9/94;29;Man;;Direct debit;1;379;;;29;42;1;WOD;370;Vitamin;0;Direct debit
+Barcelona;5/17/22;9/11/22;;;Man;;Manual payment;0;38;;;;17;;;30;On Ramp;0;Cash payment
+Barcelona;2/6/23;1/9/23;;;Man;;Manual payment;0;380;;;16;26;1;Open Box;255;Open Box;0;Card payment
+Barcelona;5/6/23;;3/4/98;26;Man;;Direct debit;1;381;;;85;68;1;WOD;765;Vitamin;1;Direct debit
+Barcelona;6/6/23;6/7/23;6/5/94;30;Woman;;Manual payment;0;382;;;9;0;∞;WOD;70;Light;0;Card payment
+Barcelona;6/6/23;6/7/23;12/14/1991;32;Woman;;Manual payment;0;383;;;5;0;∞;WOD;70;Light;0;Card payment
+Barcelona;6/6/23;1/8/23;10/8/88;35;Woman;;Manual payment;0;384;;;7;8;1;WOD;70;Light;0;Card payment
+Barcelona;6/6/23;6/7/23;08/23/1987;36;Man;;Manual payment;0;385;;;9;0;∞;WOD;70;Light;0;Card payment
+Barcelona;6/6/23;1/9/23;3/2/84;40;Man;;Manual payment;0;386;;;6;21;0;WOD;85;Vitamin;0;Card payment
+Barcelona;6/6/23;1/2/24;01/17/1997;27;Woman;;Direct debit;0;387;;;57;30;2;WOD;410;Light;0;Card payment
+Barcelona;6/6/23;5/11/23;01/29/1998;26;Woman;;Direct debit;1;388;;;10;47;0;WOD;280;Light;0;Card payment
+Barcelona;8/6/23;1/9/23;06/20/1992;31;Man;;Direct debit;0;389;;;8;30;0;WOD;160;Morning Fitness;0;Direct debit
+Barcelona;5/18/22;;;27;Man;;Manual payment;1;39;Familiares directos (+3) (10.00%);10;33;121;0;WOD;395,5;Light;1;Cash payment
+Barcelona;12/6/23;;;40;Man;8015;Direct debit;1;390;;;109;68;2;WOD;805;MORNING FITNESS XL;1;Direct debit
+Barcelona;6/13/23;;;31;Man;;Direct debit;1;391;;;35;68;1;WOD;816;Vitamin;1;Cash payment
+Barcelona;6/13/23;;;33;Man;15001;Manual payment;1;392;;;10;55;0;WOD;110;Bonus;1;Card payment
+Barcelona;6/18/23;;12/19/1995;28;Woman;;Direct debit;1;393;;;421;68;6;WOD;1285;Fitness;1;Direct debit
+Barcelona;6/19/23;6/30/23;10/3/88;36;Man;;Direct debit;0;394;;;6;1;6;WOD;46;Fitness;0;Card payment
+Barcelona;6/19/23;6/30/23;05/24/1993;31;Man;;Direct debit;0;395;;;4;1;4;WOD;46;Fitness;0;Card payment
+Barcelona;6/20/23;6/30/24;;;Man;;Direct debit;1;396;;;69;54;1;Open Box;694,17;Open Box;1;Direct debit
+Barcelona;6/22/23;6/7/23;5/2/81;43;Man;;Manual payment;0;397;;;11;12;1;WOD;115;Fitness;0;Card payment
+Barcelona;6/22/23;6/7/23;12/6/90;34;Woman;;Manual payment;0;398;;;9;16;1;WOD;115;Fitness;0;Card payment
+Barcelona;6/22/23;10/26/23;10/29/1994;29;Man;;Direct debit;0;399;;;6;18;0;WOD;370;Matricula descuento;0;Direct debit
+Barcelona;4/21/22;9/11/22;;32;Man;;Manual payment;0;4;;;11;21;1;WOD;251;Vitamin;0;Card payment
+Barcelona;5/19/22;8/28/22;;28;Man;;Manual payment;0;40;;;;15;;;20;On Ramp;0;Cash payment
+Barcelona;6/23/23;9/2/24;06/19/1986;37;Woman;;Direct debit;1;400;;;180;63;3;WOD;447,67;MORNING FITNESS XL;1;Cash payment
+Barcelona;6/24/23;;05/30/1993;31;Man;8014;Direct debit;1;401;;;179;69;3;WOD;1105,83;Fitness;1;Direct debit
+Barcelona;6/27/23;10/24/23;;30;Woman;;Manual payment;0;402;;;40;17;2;WOD;256,5;Healthy  Descuento Trimestral;0;Card payment
+Barcelona;6/27/23;;11/19/1984;39;Man;8004;Direct debit;1;403;;;114;68;2;WOD;910;Healthy;1;Direct debit
+Barcelona;3/7/23;;01/25/1995;29;Woman;;Direct debit;1;404;;;162;68;2;WOD;1040;Healthy;1;Cash payment
+Barcelona;3/7/23;7/18/23;;;Man;;Manual payment;0;405;;;5;19;0;WOD;50;Bonus;0;Card payment
+Barcelona;3/7/23;7/18/23;;;Woman;;Manual payment;0;406;;;5;19;0;WOD;50;Bonus;0;Card payment
+Barcelona;5/7/23;;4/3/77;47;Man;8022;Direct debit;1;407;;;70;68;1;WOD;620;Vitamin;1;Direct debit
+Barcelona;7/7/23;;3/10/94;29;Man;;Direct debit;1;408;;;116;68;2;WOD;920;Vitamin;1;Direct debit
+Barcelona;8/7/23;;12/6/84;40;Man;;Direct debit;1;409;;;73;68;1;WOD;645;Vitamin;1;Direct debit
+Barcelona;5/19/22;6/9/22;;28;Woman;;Manual payment;0;41;;;;3;;;40;On Ramp;0;Card payment
+Barcelona;10/7/23;;01/16/1996;28;Man;8014;Direct debit;1;410;;;103;64;2;Open Box;825,32;Vitamin;1;Direct debit
+Barcelona;10/7/23;10/23/23;8/5/95;29;Man;;Direct debit;0;411;;;7;3;2;WOD;230,32;Vitamin;0;Card payment
+Barcelona;7/14/23;2/29/24;;29;Woman;;Direct debit;0;412;;;60;33;2;WOD;540,65;MORNING FITNESS XL;0;Direct debit
+Barcelona;7/14/23;10/24/23;;29;Man;;Manual payment;0;413;;;22;15;1;WOD;200;Fitness;0;Card payment
+Barcelona;7/19/23;10/24/23;10/12/81;42;Man;;Manual payment;0;414;;;2;14;0;WOD;;;0;
+Barcelona;7/31/23;;10/6/92;32;Woman;;Manual payment;1;415;;;152;68;2;WOD;945;Healthy;1;Cash payment
+Barcelona;1/8/23;;01/25/1987;37;Man;8014;Direct debit;1;416;;;183;68;3;WOD;985;Fitness;1;Direct debit
+Barcelona;2/8/23;10/31/23;3/12/89;34;Man;;Direct debit;0;417;;;12;38;0;WOD;255;Vitamin;0;Card payment
+Barcelona;5/8/23;5/11/23;;26;Woman;;Manual payment;0;418;;;4;0;∞;WOD;140;Light;0;Card payment
+Barcelona;7/8/23;;05/23/1996;28;Man;;Manual payment;0;419;;;;;;;50;Bonus;0;Card payment
+;11/8/23;10/24/23;;;Man;;Manual payment;0;420;;;1;0;∞;WOD;;;0;
+Barcelona;8/22/23;5/6/24;6/5/96;28;Man;;Manual payment;0;421;;;98;37;3;WOD;1207,1;Fitness;0;Cash payment
+Barcelona;8/24/23;2/5/24;10/31/1990;33;Man;;Manual payment;0;422;;;46;24;2;WOD;690,4;Light;0;Direct debit
+Barcelona;8/29/23;3/14/24;06/29/1996;27;Man;;Direct debit;0;423;;;51;28;2;WOD;510;Vitamin;0;Direct debit
+Barcelona;8/30/23;7/5/24;10/15/1998;25;Woman;;Direct debit;1;424;;;11;44;0;WOD;340;Vitamin;0;Direct debit
+Barcelona;1/9/23;4/12/23;9/8/72;51;Woman;;Manual payment;0;425;;;8;13;1;WOD;65;Morning Fitness;0;Cash payment
+Barcelona;1/9/23;4/30/24;;32;Woman;;Direct debit;1;426;;;23;68;0;WOD;465;Light;1;Direct debit
+Barcelona;4/9/23;;03/16/1995;29;Man;;Manual payment;1;427;;;112;68;2;WOD;990;Healthy;1;Card payment
+Barcelona;4/9/23;;08/23/1990;33;Woman;8004;Direct debit;1;428;;;98;68;1;WOD;680;Vitamin;1;Direct debit
+Barcelona;4/9/23;;01/30/1998;26;Man;;Direct debit;1;429;;;74;64;1;WOD;650;Vitamin;1;Direct debit
+Barcelona;5/21/22;8/26/22;;29;Man;;Manual payment;0;43;;;4;14;0;WOD;155,81;Fitness;0;Cash payment
+Barcelona;5/9/23;1/24/24;11/25/2000;23;Man;;Direct debit;0;430;;;16;37;0;WOD;235;MORNING FITNESS XL;0;Card payment
+Barcelona;5/9/23;;4/6/96;28;Man;;Direct debit;1;431;;;25;51;0;WOD;510;Vitamin;1;Card payment
+Barcelona;6/9/23;5/11/23;01/18/1996;28;Woman;;Manual payment;0;432;;;8;21;0;WOD;85;MORNING FITNESS XL;0;Cash payment
+Barcelona;6/9/23;;;29;Woman;;Manual payment;1;433;;;35;68;1;Hyrox;530;Bonus;1;Card payment
+Barcelona;7/9/23;4/12/23;09/14/1997;26;Man;;Manual payment;0;434;;;7;7;1;WOD;140;Light;0;Card payment
+Barcelona;12/9/23;;;23;Man;;Direct debit;1;435;;;37;64;1;Open Box;732,83;Full Open;1;Direct debit
+Barcelona;9/13/23;6/18/24;12/10/92;31;Man;;Direct debit;1;436;;;30;40;1;WOD;231;MORNING FITNESS XL;0;Direct debit
+Barcelona;9/13/23;;;29;Woman;;Direct debit;1;437;;;88;68;1;Hyrox;212,5;Vitamin;1;Direct debit
+Barcelona;9/13/23;;;27;Woman;;Direct debit;1;438;;;74;64;1;WOD;685;Healthy;1;Direct debit
+Barcelona;9/14/23;;02/28/1995;29;Woman;;Manual payment;1;439;;;86;68;1;WOD;705;Healthy;1;Cash payment
+Barcelona;5/23/22;9/15/22;;34;Man;;Manual payment;0;44;;;2;16;0;WOD;95;On Ramp;0;Card payment
+Barcelona;9/15/23;3/12/23;;30;Woman;;Manual payment;1;440;;;6;40;0;WOD;255;Vitamin;0;Cash payment
+Barcelona;9/18/23;9/2/24;06/27/1999;24;Man;;Direct debit;1;441;;;48;50;1;WOD;296,83;MORNING FITNESS XL;0;Direct debit
+Barcelona;9/18/23;;;;Woman;;Manual payment;1;442;;;7;51;0;WOD;70;Oferta Rugby;1;Card payment
+Barcelona;9/21/23;;06/17/1990;34;Man;8014;Direct debit;1;443;;;64;68;1;WOD;533,33;Vitamin;1;Direct debit
+Barcelona;9/21/23;1/31/24;6/2/96;28;Man;;Direct debit;0;444;;;108;19;6;WOD;465;Fitness;0;Direct debit
+Barcelona;9/22/23;;12/24/1998;25;Woman;;Direct debit;1;445;;;10;47;0;WOD;161;Light;0;Card payment
+Barcelona;9/22/23;;02/22/1996;28;Man;;Direct debit;1;446;;;10;47;0;WOD;301;Light;0;Direct debit
+Barcelona;9/22/23;3/31/24;03/17/1989;35;Woman;;Direct debit;0;447;;;22;28;1;WOD;349,5;Morning Fitness;0;Direct debit
+Barcelona;9/22/23;3/31/24;6/3/87;37;Man;;Direct debit;0;448;;;21;28;1;WOD;149,5;Morning Fitness;0;Card payment
+Barcelona;9/26/23;4/12/23;;33;Man;;Manual payment;1;449;;;12;39;0;Open Box;170;MORNING FITNESS XL;0;Card payment
+Barcelona;5/24/22;9/11/22;;;Man;;Manual payment;0;45;;;5;16;0;Halterofilia;55;Morning Light | Descuento;0;Card payment
+Barcelona;9/26/23;;10/18/1993;30;Man;;Direct debit;1;450;;;79;68;1;WOD;550;Healthy;1;Direct debit
+Barcelona;9/26/23;;;;Man;;Manual payment;1;451;;;7;55;0;WOD;110;Bonus;1;Card payment
+Barcelona;9/28/23;;07/25/1997;26;Woman;;Direct debit;1;452;;;75;68;1;WOD;425;Vitamin;1;Direct debit
+Barcelona;9/28/23;;09/14/1993;30;Woman;8003;Manual payment;1;453;;;88;64;1;WOD;555;Fitness;1;Card payment
+Barcelona;9/30/23;11/16/23;;34;Man;;Manual payment;0;454;;;7;7;1;WOD;85;MORNING FITNESS XL;0;Card payment
+Barcelona;1/10/23;9/2/24;9/8/94;29;Woman;;Manual payment;1;455;;;111;86;1;WOD;465;Fitness;1;Card payment
+Barcelona;2/10/23;1/2/24;;33;Man;;Direct debit;1;456;;;5;47;0;WOD;40;Bonus;0;Card payment
+Barcelona;3/10/23;9/2/24;07/25/1997;26;Man;;Manual payment;1;457;;;43;78;1;WOD;230;Fitness;1;Card payment
+Barcelona;3/10/23;;06/28/2000;23;Woman;;Direct debit;1;458;;;44;55;1;WOD;140;Oferta Rugby;1;Direct debit
+Barcelona;4/10/23;6/11/23;3/2/99;25;Woman;;Direct debit;0;459;;;2;9;0;WOD;35;Oferta Rugby;0;Card payment
+Barcelona;5/24/22;1/10/22;;;Man;;Manual payment;0;46;;;3;15;0;Open Box;55;Morning Light | Descuento;0;Card payment
+Barcelona;5/10/23;4/12/23;2/8/87;36;Woman;;Manual payment;0;460;;;;;;;130;MORNING FITNESS XL;0;Card payment
+Barcelona;6/10/23;10/31/23;4/6/86;38;Man;;Manual payment;0;461;;;1;21;0;Open Box;71,29;Open Box;0;Card payment
+Barcelona;9/10/23;;11/25/1992;31;Man;;Manual payment;1;462;;;16;68;0;WOD;250;Bonus;1;Pay with RedSys POS
+Barcelona;9/10/23;;;;Woman;;Manual payment;1;463;;;9;68;0;WOD;50;Bonus;1;Card payment
+Barcelona;10/10/23;;;;Man;;Manual payment;1;464;;;15;60;0;WOD;284,94;Bonus;1;Card payment
+Barcelona;10/10/23;9/2/24;5/4/94;30;Man;;Direct debit;1;465;;;16;47;0;WOD;255;Vitamin;0;Card payment
+Barcelona;10/13/23;4/12/23;;;Man;;Manual payment;0;466;;;9;1;9;Hyrox;85;MORNING FITNESS XL;0;Card payment
+Barcelona;10/16/23;4/12/23;11/30/1998;25;Woman;;Manual payment;0;467;;;4;1;4;WOD;65;Morning Fitness;0;Card payment
+Barcelona;10/17/23;;5/7/01;22;Woman;;Direct debit;1;468;;;87;55;2;WOD;496,45;Morning Fitness;1;Direct debit
+Barcelona;10/17/23;4/12/23;;27;Woman;;Manual payment;0;469;;;17;29;1;WOD;55,65;Fitness;0;Card payment
+Barcelona;5/25/22;;;31;Man;8014;Direct debit;1;47;;;290;121;2;WOD;1900,35;Vitamin;1;Direct debit
+Barcelona;10/17/23;;;30;Man;;Direct debit;1;470;;;41;63;1;WOD;296,13;Vitamin;1;Direct debit
+Barcelona;10/17/23;;05/31/1992;32;Man;;Direct debit;1;471;;;133;68;2;WOD;1115,13;Fitness;1;Cash payment
+Barcelona;10/18/23;9/2/24;04/17/1996;28;Woman;;Direct debit;1;472;;;7;46;0;WOD;94,35;Morning Fitness;0;Direct debit
+Barcelona;10/18/23;11/16/23;2/12/97;26;Man;;Manual payment;0;473;;;6;4;2;WOD;29,35;Morning Fitness;0;Card payment
+Barcelona;10/18/23;;10/25/2003;20;Woman;;Direct debit;1;474;;;75;63;1;Open Box;548,39;Open Box;1;Direct debit
+Barcelona;10/19/23;;04/29/2001;23;Man;;Direct debit;1;475;;;57;64;1;WOD;117,9;MORNING FITNESS XL;1;Card payment
+Barcelona;10/20/23;;;33;Woman;;Manual payment;0;476;;;3;17;0;Hyrox;110;Bonus;0;Card payment
+Barcelona;10/20/23;1/2/24;9/5/90;34;Man;;Manual payment;0;477;;;25;11;2;WOD;194,68;Vitamin;0;Card payment
+Barcelona;10/22/23;;08/26/1981;42;Woman;8004;Direct debit;1;478;;;101;68;1;WOD;427,42;Fitness;1;Direct debit
+Barcelona;10/23/23;;06/13/2001;23;Woman;;Direct debit;1;479;;;106;51;2;WOD;735;Fitness;1;Direct debit
+Barcelona;5/26/22;1/8/23;;;Woman;;Manual payment;0;48;;;3;33;0;WOD;40;Bonus;0;Cash payment
+Barcelona;10/24/23;;03/31/1979;45;Woman;;Direct debit;1;480;;;79;60;1;WOD;691,94;Healthy;1;Card payment
+Barcelona;10/24/23;5/27/24;10/17/1992;31;Man;;Direct debit;0;481;;;28;31;1;WOD;391,94;Healthy;0;Card payment
+Barcelona;10/28/23;2/29/24;2/10/91;32;Man;;Direct debit;0;482;;;27;18;2;WOD;345;MORNING FITNESS XL;0;Direct debit
+Barcelona;10/30/23;11/2/24;2/2/93;31;Man;;Direct debit;1;483;;;18;52;0;WOD;153;Vitamin;1;Direct debit
+Barcelona;2/11/23;;06/20/1989;34;Woman;;Direct debit;1;484;;;39;59;1;WOD;230;Bonus;1;Card payment
+Barcelona;6/11/23;6/18/24;01/16/1987;37;Man;;Manual payment;1;485;;;93;53;2;WOD;660;Healthy;1;Card payment
+Barcelona;6/11/23;8/5/24;9/3/88;36;Woman;;Manual payment;1;486;;;62;60;1;WOD;135;Morning Fitness;1;Card payment
+Barcelona;7/11/23;;10/14/1996;27;Man;8028;Direct debit;1;487;;;72;68;1;WOD;510;Vitamin;1;Direct debit
+Barcelona;9/11/23;;02/16/1996;28;Man;;Direct debit;1;488;;;27;68;0;WOD;260;Morning Fitness;1;Direct debit
+Barcelona;11/13/23;8/2/24;;28;Man;;Manual payment;0;489;;;6;37;0;Open Box;;;0;
+Barcelona;5/27/22;9/15/22;;;Woman;;Manual payment;0;49;;;2;16;0;WOD;55;Morning Fitness;0;Card payment
+Barcelona;11/14/23;;;27;Woman;;Manual payment;0;490;;;2;6;0;Open Box;60;Bonus;0;Cash payment
+Barcelona;11/15/23;;08/30/1995;28;Man;8029;Direct debit;1;491;;;56;68;1;WOD;300,33;Vitamin;1;Direct debit
+Barcelona;11/15/23;1/31/24;07/31/1996;27;Man;;Direct debit;0;492;;;15;11;1;WOD;130,33;Vitamin;0;Card payment
+Barcelona;11/20/23;;2/2/88;36;Woman;;Direct debit;1;493;;;48;55;1;Halterofilia;358,83;Morning Fitness;1;Direct debit
+Barcelona;11/20/23;;07/22/1985;38;Man;8004;Direct debit;1;494;;;82;68;1;WOD;358,83;Morning Fitness;1;Direct debit
+Barcelona;11/20/23;8/5/24;5/5/95;29;Woman;;Direct debit;0;495;;;6;37;0;WOD;201,17;Vitamin;0;Direct debit
+Barcelona;11/23/23;;;;Man;;Manual payment;0;496;;;4;29;0;Strong;110;Bonus;0;Card payment
+Barcelona;11/23/23;1/2/24;11/29/2000;23;Woman;;Manual payment;0;497;;;;6;;;35;Oferta Rugby;0;Cash payment
+Barcelona;11/24/23;2/29/24;04/17/1992;32;Man;;Manual payment;0;498;;;1;14;0;Open Box;654;Fitness  Descuento Trimestral;0;Card payment
+Barcelona;11/27/23;;1/10/82;41;Man;;Manual payment;1;499;;;94;68;1;WOD;1191,5;Fitness  Descuento Semestral;1;Card payment
+Barcelona;4/21/22;9/11/22;;34;Woman;;Manual payment;0;5;;;29;21;1;Open Box;294;Vitamin;0;Card payment
+Barcelona;5/29/22;;;32;Woman;;Direct debit;1;50;FCSE, FCS, FFCCS | Inicial (5.00%);5;447;121;4;Open Box;2459,03;Full Open;1;Direct debit
+Barcelona;11/29/23;1/2/24;07/16/1996;27;Woman;;Direct debit;0;500;;;3;5;1;WOD;125;Vitamin;0;Card payment
+Barcelona;11/30/23;;03/31/1992;32;Man;8014;Direct debit;1;501;;;38;55;1;WOD;425;Vitamin;1;Direct debit
+Barcelona;1/12/23;;4/3/98;26;Woman;;Direct debit;1;502;;;55;68;1;WOD;425;Vitamin;1;Direct debit
+Barcelona;5/12/23;;;27;Man;;Manual payment;1;503;;;110;46;2;WOD;745;Fitness  Descuento Trimestral;0;Pay with RedSys POS
+Barcelona;11/12/23;5/30/24;3/12/87;36;Woman;;Manual payment;0;504;;;16;28;1;WOD;180;Vitamin;0;Card payment
+Barcelona;12/15/23;;;;Man;;Manual payment;0;505;;;1;19;0;WOD;110;Bonus;0;Cash payment
+Barcelona;12/27/23;;06/19/1986;37;Man;8004;Direct debit;0;506;;;47;15;3;Hyrox;495;Vitamin  Descuento Trimestral;0;Card payment
+Barcelona;12/30/23;;;21;Woman;;Manual payment;0;507;;;10;15;1;WOD;395;Healthy;0;Cash payment
+Barcelona;2/1/24;5/30/24;3/1/88;36;Woman;;Manual payment;0;508;;;18;17;1;WOD;255;Vitamin;0;Card payment
+Barcelona;2/1/24;;8/1/99;25;Man;;Manual payment;0;509;;;10;16;1;WOD;110;Bonus;0;Card payment
+Barcelona;5/29/22;9/20/22;;;Woman;;Manual payment;0;51;;;;16;;;20;Drop in;0;Card payment
+Barcelona;3/1/24;;;27;Woman;;Manual payment;0;510;;;16;17;1;WOD;398;Bonus;0;Card payment
+Barcelona;4/1/24;;6/7/94;29;Woman;8028;Direct debit;0;511;;;40;17;2;WOD;340;Vitamin;0;Direct debit
+Barcelona;5/1/24;3/31/24;11/30/1994;29;Woman;;Manual payment;1;512;;;30;48;1;Hyrox;235;MORNING FITNESS XL;0;Card payment
+Barcelona;8/1/24;2/5/24;;;Man;;Manual payment;0;513;;;4;11;0;Hyrox;48;Bonus;0;Card payment
+Barcelona;9/1/24;2/20/24;05/25/1990;34;Woman;;Manual payment;1;514;;;6;46;0;WOD;125;MORNING FITNESS XL;0;Cash payment
+Barcelona;11/1/24;3/31/24;;;Woman;;Manual payment;1;515;;;33;44;1;WOD;295;Vitamin;0;Card payment
+Barcelona;12/1/24;3/31/24;10/8/88;35;Woman;;Manual payment;0;516;;;9;20;0;WOD;216,94;Morning Fitness;0;Card payment
+;1/13/24;1/24/24;;28;Woman;;Manual payment;0;517;;;;2;;;;;0;
+Barcelona;1/14/24;;09/13/1990;33;Woman;;Manual payment;0;518;;;12;15;1;WOD;189,35;Bonus;0;Card payment
+Barcelona;1/14/24;6/30/24;06/24/1993;30;Man;8015;Direct debit;0;519;;;46;24;2;WOD;304,35;Vitamin;0;Direct debit
+Barcelona;5/29/22;12/7/22;;;Woman;;Manual payment;0;52;;;;27;;;;;0;
+Barcelona;1/15/24;;07/23/1987;36;Man;;Direct debit;0;520;;;17;12;1;WOD;100,65;Morning Fitness;0;Card payment
+Barcelona;1/16/24;5/30/24;2/6/92;32;Man;;Direct debit;0;521;;;51;19;3;WOD;173,55;Morning Fitness;0;Card payment
+Barcelona;1/16/24;;7/6/93;31;Woman;8029;Manual payment;0;522;;;55;17;3;WOD;565;Fitness;0;Cash payment
+Barcelona;1/17/24;;11/30/1987;36;Man;;Manual payment;0;523;;;1;14;0;WOD;30;Bonus;0;Card payment
+Barcelona;1/22/24;9/2/24;09/22/1982;41;Man;;Manual payment;0;524;;;;32;;;27,42;MORNING FITNESS XL;0;Card payment
+Barcelona;1/23/24;;5/2/99;25;Man;;Manual payment;0;525;;;75;17;4;WOD;520;Matrícula;0;Cash payment
+Barcelona;1/24/24;;03/27/1992;32;Woman;;Direct debit;0;526;;;36;17;2;WOD;270;Healthy;0;Direct debit
+Barcelona;1/24/24;;03/29/1994;30;Woman;8036;Direct debit;0;527;;;38;13;3;WOD;255;Vitamin;0;Direct debit
+Barcelona;1/25/24;9/2/24;01/29/1991;33;Woman;;Manual payment;0;528;;;;32;;;;;0;
+Barcelona;1/30/24;3/31/24;08/14/1976;47;Man;;Direct debit;0;529;;;8;9;1;WOD;140;Morning Fitness;0;Card payment
+Barcelona;5/30/22;;;30;Man;8080;Direct debit;1;53;;;273;120;2;WOD;1568,33;MORNING FITNESS XL;1;Direct debit
+Barcelona;1/30/24;;06/25/1990;33;Man;;Direct debit;0;530;;;67;17;4;WOD;180;MORNING FITNESS XL;0;Direct debit
+Barcelona;1/30/24;;10/26/1995;28;Woman;8029;Manual payment;0;531;;;38;17;2;WOD;480;Vitamin  Descuento Trimestral;0;Card payment
+Barcelona;1/30/24;;10/25/1992;31;Man;;Manual payment;0;532;;;69;17;4;WOD;603;Fitness  Descuento Trimestral;0;Card payment
+Barcelona;1/31/24;2/5/24;10/20/1996;27;Woman;;Manual payment;0;533;;;7;1;7;WOD;90;MORNING FITNESS XL;0;Cash payment
+Barcelona;1/31/24;2/5/24;05/27/2000;24;Woman;;Manual payment;0;534;;;8;1;8;WOD;90;MORNING FITNESS XL;0;Cash payment
+Barcelona;1/31/24;3/21/24;1/3/94;30;Man;;Manual payment;0;535;;;10;7;1;WOD;85;Vitamin;0;Card payment
+Barcelona;2/4/24;;12/3/85;39;Woman;;Direct debit;0;536;;;21;11;2;WOD;167,17;Vitamin;0;Direct debit
+Barcelona;1/2/24;;02/24/1998;26;Man;;Direct debit;0;537;;;27;11;2;WOD;127,5;Vitamin;0;Direct debit
+Barcelona;2/2/24;;1/6/95;29;Woman;;Manual payment;0;538;;;53;17;3;WOD;270;MORNING FITNESS XL;0;Card payment
+Barcelona;2/2/24;;12/31/1990;33;Man;;Direct debit;0;539;;;20;11;2;WOD;170;;0;Card payment
+Barcelona;5/30/22;9/15/22;;31;Man;;Manual payment;0;54;;;5;15;0;WOD;67,5;Morning Light | Descuento;0;Card payment
+Barcelona;5/2/24;;03/31/1996;28;Woman;;Manual payment;0;540;;;26;13;2;WOD;180;MORNING FITNESS XL;0;Card payment
+Barcelona;5/2/24;2/5/24;05/31/1993;31;Woman;;Manual payment;1;541;;;23;48;0;WOD;170;Vitamin;0;Card payment
+Barcelona;5/2/24;;12/13/1990;33;Woman;8014;Direct debit;0;542;;;58;17;3;WOD;270;MORNING FITNESS XL;0;Card payment
+Barcelona;5/2/24;5/31/24;10/12/84;39;Woman;;Direct debit;0;543;;;37;4;9;WOD;235;Morning Fitness;0;Card payment
+Barcelona;5/2/24;;10/2/98;26;Man;;Manual payment;0;544;;;31;10;3;WOD;240,34;Vitamin;0;Card payment
+Barcelona;12/2/24;2/5/24;08/13/2000;23;Man;;Manual payment;0;545;;;8;8;1;WOD;52,76;Vitamin;0;Card payment
+Barcelona;2/17/24;;08/29/2000;23;Woman;;Manual payment;0;546;;;27;12;2;WOD;378,1;;0;Card payment
+Barcelona;2/20/24;12/3/24;6/6/89;35;Woman;;Manual payment;1;547;;;5;41;0;WOD;85;Vitamin;0;Card payment
+Barcelona;2/23/24;;7/5/94;30;Woman;;Direct debit;0;548;;;33;17;2;WOD;300;;0;Card payment
+Barcelona;2/29/24;;09/22/1990;33;Man;;Direct debit;0;549;;;15;17;1;WOD;70;Morning Fitness;0;Card payment
+Barcelona;5/31/22;7/20/22;;;Man;;Manual payment;0;55;;;4;7;1;Open Box;55;Morning Light | Descuento;0;Card payment
+Barcelona;1/3/24;6/18/24;02/21/1996;28;Woman;;Manual payment;0;550;;;20;24;1;WOD;273;Healthy  Descuento Trimestral;0;Card payment
+Barcelona;1/3/24;;02/20/1998;26;Man;;Manual payment;0;551;;;18;12;2;WOD;240;Vitamin  Descuento Trimestral;0;Card payment
+Barcelona;4/3/24;;11/2/90;34;Man;;Manual payment;0;553;;;22;8;3;WOD;240;Vitamin  Descuento Trimestral;0;Card payment
+Barcelona;5/3/24;;12/8/98;25;Woman;8004;Manual payment;0;554;;;19;12;2;WOD;240;Vitamin  Descuento Trimestral;0;Card payment
+Barcelona;5/3/24;7/5/24;09/29/1994;29;Woman;;Manual payment;0;555;;;7;9;1;WOD;170;Vitamin;0;Card payment
+Barcelona;5/3/24;5/30/24;10/15/1994;29;Woman;;Manual payment;0;556;;;7;4;2;WOD;85;Vitamin;0;Card payment
+Barcelona;9/3/24;3/21/24;8/9/93;30;Woman;;Manual payment;0;557;;;;;;;166,44;Morning Xl Trimestral;0;Card payment
+Barcelona;12/3/24;5/30/24;;28;Woman;;Manual payment;1;558;;;22;39;1;Halterofilia;140;Morning Fitness;0;Card payment
+Barcelona;5/31/22;;1/2/89;35;Woman;8015;Direct debit;1;56;;;74;116;1;WOD;902,26;Light;1;Direct debit
+Barcelona;12/3/24;;06/17/1989;35;Man;;Direct debit;0;560;;;10;8;1;Strong;170;Vitamin;0;Card payment
+Barcelona;3/18/24;;09/21/1993;30;Man;;Manual payment;0;561;;;19;12;2;WOD;119;Vitamin;0;Cash payment
+Barcelona;3/21/24;;06/18/1999;25;Woman;8014;Manual payment;0;562;;;19;8;2;WOD;245,7;Morning Xl Trimestral;0;Card payment
+Barcelona;3/25/24;;10/18/1993;30;Woman;8014;Manual payment;0;563;;;16;12;1;WOD;255,66;MORNING FITNESS XL;0;Card payment
+Barcelona;3/26/24;;10/12/99;24;Woman;8028;Manual payment;0;564;;;12;12;1;WOD;0;Vitamin  Descuento Trimestral;0;Cash payment
+Barcelona;2/4/24;4/30/24;08/22/1982;41;Man;;Direct debit;0;565;;;3;12;0;SKILLS;67,67;Morning Fitness;0;Card payment
+Barcelona;3/4/24;;10/8/88;35;Man;;Direct debit;0;566;;;11;4;3;Hyrox;100;Healthy;0;Card payment
+Barcelona;3/4/24;;4/12/87;36;Man;;Direct debit;0;567;;;9;2;5;WOD;85;Vitamin;0;Direct debit
+Barcelona;5/4/24;;;28;Woman;;Manual payment;0;568;;;1;-27;0;Hyrox;;;0;
+Barcelona;8/4/24;;08/13/1995;28;Man;;Direct debit;0;569;;;4;1;4;WOD;40;Morning Fitness;0;Card payment
+Barcelona;1/6/22;1/10/22;9/9/96;27;Woman;;Manual payment;0;57;;;;1;;;;;0;
+Barcelona;9/4/24;5/6/24;4/10/91;32;Man;;Manual payment;0;570;;;7;29;0;WOD;56,67;Vitamin;0;Card payment
+Barcelona;10/4/24;5/30/24;;;Man;;Manual payment;0;571;;;5;33;0;Strong;56,67;Vitamin;0;Card payment
+Barcelona;4/13/24;;05/31/1992;32;Man;8004;Manual payment;0;572;;;3;2;2;WOD;25,5;Vitamin;0;Card payment
+Barcelona;4/15/24;;;24;Man;;Manual payment;0;574;;;8;2;4;WOD;64;Fitness;0;Card payment
+;4/15/24;;;;Man;;Manual payment;0;575;;;1;2;1;WOD;140;Bonus;0;Pay with RedSys POS
+Barcelona;4/15/24;;;;Woman;;Manual payment;0;576;;;;;;;37,33;Morning Fitness;0;Cash payment
+Barcelona;4/18/24;;;;Woman;;Manual payment;0;577;;;;;;;75;Bonus;0;Card payment
+Barcelona;4/21/24;;;29;Woman;;Manual payment;0;578;;;1;1;1;WOD;85;Vitamin;0;Card payment
+Barcelona;7/6/22;3/21/24;;24;Woman;;Manual payment;1;58;;;230;89;3;WOD;2729;Fitness;1;Card payment
+Barcelona;4/24/24;;11/26/1990;33;Woman;;Manual payment;0;580;;;1;0;∞;WOD;90,67;Vitamin;0;Cash payment
+Barcelona;4/23/22;6/9/22;;;Man;;Direct debit;0;6;;;7;7;1;WOD;;;0;
+Barcelona;6/13/22;9/20/22;;35;Woman;;Manual payment;0;60;;;;14;;;25;Drop in + Camiseta G-93  No socios;0;Cash payment
+Barcelona;6/13/22;5/31/23;06/14/1979;45;Man;;Manual payment;1;61;;;22;50;0;WOD;459,84;Light;0;Cash payment
+Barcelona;6/14/22;6/9/22;02/27/1996;28;Woman;;Manual payment;0;62;;;;;;;30;On Ramp;0;Card payment
+Barcelona;6/28/22;;02/17/1993;31;Man;8036;Direct debit;1;63;Familiares directos (10.00%);10;254;120;2;WOD;2023,5;Vitamin;1;Direct debit
+Barcelona;6/16/22;;;36;Man;8014;Pay with RedSys POS automatically;1;64;;;349;121;3;WOD;2229,4;Vitamin  Descuento Trimestral;1;Direct debit
+Barcelona;6/16/22;;;33;Man;8004;Direct debit;1;65;;;338;121;3;WOD;2035;Vitamin;1;Direct debit
+Barcelona;6/17/22;8/26/22;;31;Man;;Manual payment;0;66;;;;10;;;;;0;
+Barcelona;6/16/22;1/16/23;;;Woman;;Manual payment;0;67;Manual (3€);3,53;20;31;1;WOD;225,07;Promoción verano Light 3x2;0;Card payment
+Barcelona;6/25/22;5/12/22;;34;Woman;;Manual payment;0;68;;;10;22;0;Open Box;234,7;Open Box;0;Cash payment
+Barcelona;4/24/22;6/30/23;;38;Man;;Manual payment;1;7;;;134;61;2;WOD;1027,54;Morning Fitness;1;Direct debit
+Barcelona;2/7/22;11/24/22;;48;Woman;;Manual payment;1;70;;;31;41;1;WOD;219;Vitamin;0;Card payment
+Barcelona;4/7/22;8/26/22;;29;Man;;Direct debit;0;71;;;24;20;1;WOD;82;Vitamin;0;Card payment
+Barcelona;6/7/22;;;33;Man;;Manual payment;1;72;;;343;121;3;Open Box;1918,45;Healthy;1;Pay with RedSys POS
+Barcelona;7/7/22;9/11/22;;;Man;;Manual payment;0;73;;;;10;;;30;On Ramp;0;Card payment
+Barcelona;7/7/22;9/1/23;;;Woman;;Manual payment;1;74;;;;60;;;30;On Ramp;1;Card payment
+Barcelona;7/7/22;8/28/22;;;Man;;Manual payment;0;75;;;;8;;;65;Light;0;Card payment
+Barcelona;11/7/22;1/12/22;;;Man;;Manual payment;0;76;;;;;;;30;On Ramp;0;Card payment
+Barcelona;11/7/22;;;35;Man;8014;Manual payment;1;77;;;287;120;2;WOD;1929,03;Healthy;1;Pay with RedSys POS
+Barcelona;11/7/22;2/7/23;7/6/93;31;Woman;8014;Direct debit;0;78;;;184;13;14;WOD;785;Fitness;0;Direct debit
+Barcelona;7/14/22;9/11/22;;28;Man;;Manual payment;0;79;Familiares directos (10.00%);10;10;9;1;Functional;31,94;Morning Light | Descuento;0;Card payment
+Barcelona;4/24/22;6/30/23;;38;Man;;Direct debit;1;8;Familiares directos (10.00%);10;169;61;3;WOD;1098,34;Morning Fitness;1;Direct debit
+Barcelona;7/14/22;;1/1/95;29;Woman;;Manual payment;1;80;;;199;116;2;WOD;1925,64;Vitamin  Descuento Trimestral;1;Direct debit
+Barcelona;7/18/22;9/11/22;;;Man;;Manual payment;0;81;;;;8;;;40;On Ramp;0;Cash payment
+Barcelona;7/19/22;1/9/23;;40;Man;;Manual payment;0;82;;;;25;;;88;Bonus;0;Cash payment
+Barcelona;7/20/22;9/22/23;;;Man;;Manual payment;1;83;;;24;61;0;Open Box;143,4;Open Box;1;Card payment
+Barcelona;7/21/22;8/26/22;12/30/1998;25;Woman;;Manual payment;0;84;;;;5;;;;;0;
+Barcelona;7/21/22;3/31/24;03/27/1993;31;Woman;;Direct debit;1;85;;;293;89;3;Open Box;1688,1;Open Box;1;Card payment
+Barcelona;1/8/22;;;36;Man;8014;Manual payment;1;86;;;221;121;2;WOD;2588,5;Vitamin  Descuento Semestral;1;Pay with RedSys POS
+Barcelona;1/8/22;9/11/22;11/16/1983;40;Man;;Manual payment;0;87;;;3;36;0;WOD;65;Light;0;Card payment
+Barcelona;1/8/22;;03/15/1996;28;Woman;8012;Pay with RedSys POS automatically;1;88;;;234;121;2;WOD;1711,5;MORNING FITNESS XL;1;Card payment
+Barcelona;3/8/22;;;29;Man;8902;Direct debit;1;89;;;246;116;2;WOD;1883;Healthy;1;Direct debit
+Barcelona;4/25/22;;;30;Man;;Direct debit;1;9;Familiares directos (10.00%);10;468;121;4;WOD;2280,11;Fitness;1;Direct debit
+Barcelona;9/8/22;1/5/23;;24;Woman;;Direct debit;0;90;;;39;17;2;WOD;577;Vitamin;0;Direct debit
+Barcelona;10/8/22;;;34;Man;;Direct debit;1;91;;;424;120;4;Open Box;2050,25;Full Open;1;Direct debit
+Barcelona;11/8/22;4/12/23;;32;Man;8015;Pay with RedSys POS automatically;0;92;;;400;22;18;Open Box;1640,75;;0;Card payment
+Barcelona;8/15/22;;;30;Man;;Direct debit;1;95;;;167;120;1;Strong;1170,65;Vitamin;1;Direct debit
+Barcelona;8/15/22;2/7/23;02/29/1980;44;Man;;Manual payment;0;96;;;20;25;1;Open Box;170;Bonus;0;Card payment
+kiev;8/16/22;9/11/22;;25;Man;;Manual payment;0;97;;;4;4;1;WOD;110;Bonus;0;Card payment
+Barcelona;8/17/22;1/10/22;;;Woman;;Manual payment;0;98;;;;;;;;;0;
+Barcelona;8/17/22;4/27/23;;33;Man;;Manual payment;0;99;;;52;36;1;WOD;789;Vitamin;0;Card payment
